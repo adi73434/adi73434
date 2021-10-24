@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adrian</h1>
-<h3 align="center">A passionate full stack web and software developer</h3>
+<h3 align="center">A passionate, Full Stack, Web and Software Developer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
