@@ -22,7 +22,7 @@
 ## %RANDOM% Linkies
 - [fuel calc](https://aterlux.com/t/fuel)
 - [tech-icks](https://aterlux.com/tech-icks)
-- [ねこ](https://aterlux.com/t/dzalicel)
+- [ねこ](https://aterlux.com/t/dzalice)
 - [react shenanigans#1](https://aterlux.com/t/interview-react-zoo)
 
 
