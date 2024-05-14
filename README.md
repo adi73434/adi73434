@@ -23,7 +23,7 @@
 - [fuel calc](https://aterlux.com/t/fuel)
 - [tech-icks](https://aterlux.com/tech-icks)
 - [ねこ](https://aterlux.com/t/dzalice)
-- [react shenanigans#1](https://aterlux.com/t/interview-react-zoo)
+- [react shenanigans#1](https://aterlux.com/dev/interview-react-zoo)
 
 
 ---
